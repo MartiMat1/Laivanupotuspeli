@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.example.laivanupotuspeli","l":"LaivanUpotusPeli"},{"p":"com.example.laivanupotuspeli","l":"PeliMetodit"}];updateSearchResults();
